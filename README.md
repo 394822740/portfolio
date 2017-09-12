@@ -6,7 +6,7 @@ Conrad's past list of projects
 tba
 
 ## Uphonest Capital Website 
-tba
+confidentail until released
 
 ## AngelBoard
 For Micro VCs, it helps track the deals
@@ -14,8 +14,7 @@ demo: http://web.angelboard.tk:3000/pre_invest
 
 
 ## ZhenFund IT System
-confidentail until built 
-
+confidentail until released 
 
 
 ## swim.it 
@@ -26,10 +25,10 @@ https://github.com/394822740/mriqc
 
 
 ## GoDaddy Facebook Messenger Integration
-confidential until built 
+confidentail until released
 
 ## Liepin North America Training Program 猎聘北美 
-tba
+confidentail until released
 
 ## YRD Project 
 built the python script to help generate the YRD user portrait. source code is confidential 
@@ -48,6 +47,7 @@ https://www.suppermeals.com/
 
 ## PersonalWebTemplate
 https://394822740.github.io/
+
 
 ## 小马会客厅
 Podcast Series ( China and U.S )  Innovators Reading-list (wechat based). Started the weekly interview (online) program in March 2016: interviewed 23 star entrepreneurs/VCs up-to-date and continue to finish with 48 interviewees in 2016;
