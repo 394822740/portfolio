@@ -10,8 +10,28 @@ For Micro VCs, it helps track the deals
 demo: http://web.angelboard.tk:3000/pre_invest
 funded by top Silicon Valley investor
 
+
+## ZhenFund IT System
+confidentail until built 
+
+
+
+## swim.it 
+http://www.webaware.com/
+
+## Stanford Poldrack Lab
+https://github.com/394822740/mriqc
+
+
+## GoDaddy Facebook Messenger Integration
+confidential until built 
+
 ## Liepin North America Training Program 猎聘北美 
 tba
+
+## YRD Project 
+built the python script to help generate the YRD user portrait. source code is confidential 
+
 
 ## Recap News
 A news platform 
