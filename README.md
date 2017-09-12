@@ -1,5 +1,6 @@
 # portfolio
 Conrad's past list of projects
+reach Cornad via maconrad49@gmail.com
 
 
 ## Android 8 Queen Game
