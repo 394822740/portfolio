@@ -11,7 +11,6 @@ tba
 ## AngelBoard
 For Micro VCs, it helps track the deals
 demo: http://web.angelboard.tk:3000/pre_invest
-funded by top Silicon Valley investor
 
 
 ## ZhenFund IT System
