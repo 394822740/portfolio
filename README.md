@@ -7,7 +7,7 @@ reach Cornad via maconrad49@gmail.com
 tba
 
 ## Uphonest Capital Website 
-confidentail until released
+https://www.uphonestcapital.com/
 
 ## AngelBoard
 For Micro VCs, it helps track the deals
